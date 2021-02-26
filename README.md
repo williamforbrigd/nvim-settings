@@ -1,2 +1,3 @@
 # nvim-settings
-My settings for nevoid
+
+My settings for neovim
